@@ -1,5 +1,5 @@
 # chatbot-python
-A simple project for learning python
+A simple chatbot for ICS 435 final project 
 
 # How to run it
 ## Train the chatbot
